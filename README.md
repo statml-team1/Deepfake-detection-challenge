@@ -1,7 +1,7 @@
 # Deepfake-detection-challenge
 🐱‍👤 [Kaggle] Real/Fake image classification
 
-## DeepFake Detection (DFDC) Solution by @selimsef
+## DeepFake Detection (DFDC) Solution
 
 ## Challenge details:
 
