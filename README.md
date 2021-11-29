@@ -157,7 +157,6 @@ Even though SyncBN is used larger batch on each GPU will lead to less noise as D
 
 ## Inference
 
-
 Kernel is reproduced with `predict_folder.py` script.
 
 
